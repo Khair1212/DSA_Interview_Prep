@@ -65,11 +65,11 @@ class Queue:
         self.linkedList.head = None
         self.linkedList.tail = None
 
-q = Queue()
-print(q.enqueue(1))
-print(q.enqueue(2))
-print(q.enqueue(3))
-print(q.enqueue(5))
-print(q)
-print(q.dequeue())
-print(q)
+# q = Queue()
+# print(q.enqueue(1))
+# print(q.enqueue(2))
+# print(q.enqueue(3))
+# print(q.enqueue(5))
+# print(q)
+# print(q.dequeue())
+# print(q)
