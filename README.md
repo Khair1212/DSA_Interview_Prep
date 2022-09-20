@@ -1,6 +1,6 @@
 # DSA_Interview_Prep
 
-# Array 
+## Array/ Dictionary 
 
 * **1D ARRAY** 
 
@@ -31,6 +31,8 @@
 
     ![image](https://user-images.githubusercontent.com/41924102/187451517-7a17fd82-9bdf-47e9-a35b-f865fb692114.png)
 
+## Linked List 
+
 * **CIRCULAR SINGLY LINKED LIST**
 
     ![image](https://user-images.githubusercontent.com/41924102/187451852-6801cb6b-d279-49c6-af5f-89c1eccbc2ed.png)
@@ -43,6 +45,8 @@
 
     ![image](https://user-images.githubusercontent.com/41924102/187452369-cfc1716d-78be-4547-9245-8e390255f821.png)
 
+## Stack/Queue
+
 * **STACK WITH LINKED LIST** 
 
     ![image](https://user-images.githubusercontent.com/41924102/187452650-91f91674-4879-4aa0-8eb2-8ee7d1adae3d.png)
@@ -50,6 +54,8 @@
 * **QUEUE WITH LINKED LIST** 
 
     ![image](https://user-images.githubusercontent.com/41924102/187453729-1207c100-72bb-4e1e-870d-decaadbac8cc.png)
+
+## Tree
 
 * **BINARY TREE**
 
